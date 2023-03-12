@@ -13,7 +13,7 @@ Vous devez installer Python, qui peut être fait [ici](https://www.python.org)
 
 ## Contact
 
-Discord - [@Legoshii レゴシ#3660](https://discord.gg/aT46HqG6Qn) - logicguy.mailandcontact@gmail.com
+Discord - [@Legoshii レゴシ#3660](https://discord.com/users/473917777757863947)
 
 Shpp: [https://discord.gg/aT46HqG6Qn](https://discord.gg/aT46HqG6Qn)
 
